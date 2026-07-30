@@ -58,7 +58,11 @@ function App() {
     <div className="page-shell">
       <header className="topbar">
         <a className="brand" href="#home">
-          <span className="brand-mark">PT</span>
+          <img
+            className="brand-mark brand-mark-image"
+            src="https://www.pepmedia.ph/images/brands/PEPICON.png"
+            alt="PEP media logo"
+          />
           <span>
             <strong>Positive Technologies</strong>
             <small>LovePH experience</small>

@@ -48,8 +48,13 @@
   border-radius: 50%;
   background: linear-gradient(135deg, var(--accent), #ff130f);
   color: white;
-  font-weight: 800;
+  font-weight: 800;  object-fit: cover;
 }
+
+.brand-mark-image {
+  padding: 0.2rem;
+  background: white;
+  border: 1px solid rgba(15, 23, 42, 0.08);}
 
 .top-nav {
   display: flex;
