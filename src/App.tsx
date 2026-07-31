@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
+import pepTechLogo from './assets/pep-tech-logo.png'
 
 const destinations = [
   {
@@ -60,7 +61,7 @@ function App() {
         <a className="brand" href="#home">
           <img
             className="brand-mark brand-mark-image"
-            src="assets/pep-tech-logo.png"
+            src={pepTechLogo}
             alt="PEP media logo"
           />
           <span>
