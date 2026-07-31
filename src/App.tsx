@@ -60,7 +60,7 @@ function App() {
         <a className="brand" href="#home">
           <img
             className="brand-mark brand-mark-image"
-            src="https://www.pepmedia.ph/images/brands/PEPICON.png"
+            src="assets/pep-tech-logo.png"
             alt="PEP media logo"
           />
           <span>
