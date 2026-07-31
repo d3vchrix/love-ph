@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import pepTechLogo from './assets/pep-tech-logo.png'
 
 const destinations = [
   {
@@ -61,8 +60,8 @@ function App() {
         <a className="brand" href="#home">
           <img
             className="brand-mark brand-mark-image"
-            src={pepTechLogo}
-            alt="PEP media logo"
+            src="favicon.svg"
+            alt="PEP tech logo"
           />
           <span>
             <strong>Positive Technologies</strong>

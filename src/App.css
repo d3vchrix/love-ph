@@ -52,6 +52,7 @@
 }
 
 .brand-mark-image {
+  /* src: url('https://raw.githubusercontent.com/d3vchrix/love-ph/3427ed706e29951bb147d17efdd5b2ada70d965c/favicon.svg'); */
   padding: 0.2rem;
   background: white;
   border: 1px solid rgba(15, 23, 42, 0.08);}
